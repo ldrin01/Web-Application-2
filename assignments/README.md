@@ -1,6 +1,11 @@
 # Simple Website using [Laravel](https://laravel.com/) 5.4.11
 This simple website contains laravel CRUD commands, CSS and Javascript
 
+![Laravel CRUD](https://achievement-images.teamtreehouse.com/badge_php_laravelbasics_stage07.png)
+![Laravel CRUD](https://achievement-images.teamtreehouse.com/badges_eCommerce_Stage1.png)
+![Laravel CRUD](https://achievement-images.teamtreehouse.com/badge_php_laravelbasics_stage07.png)
+![Laravel CRUD](https://achievement-images.teamtreehouse.com/badge_php_laravelbasics_stage07.png)
+
 ## Students List
 
 ![Logo](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/pyramid.gif)
