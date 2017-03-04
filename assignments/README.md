@@ -1,6 +1,8 @@
 # Simple Website using [Laravel](https://laravel.com/) 5.4.11
 This simple website contains laravel CRUD commands, CSS and Javascript
 
+![Logo](http://www.yeebaplay.com.br/blog/wp-content/uploads/2016/10/laravel-covercover.jpg)
+
 ## Students List
 
 ![Logo](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/pyramid.gif)
