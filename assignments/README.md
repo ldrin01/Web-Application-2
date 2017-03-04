@@ -2,7 +2,9 @@
 This simple website contains laravel CRUD commands, CSS and Javascript
 
 ## Students List
+
 ![Logo](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/pyramid.gif)
+
 The website I made was built to do CRUD commands to manipulate data on the database
 
 > ## Add Student
@@ -24,4 +26,19 @@ The website I made was built to do CRUD commands to manipulate data on the datab
 >To edit specific row, just click the `EDIT` button inline crossing with the option field 
 >
 >![EDIT clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/7.png)
+>![Change data](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/8.png)
+>![Changes](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/9.png)
 >
+
+> ## Soft Deletes 
+>To remove specific row, just click the `REMOVE` button inline crossing with the option field 
+>
+>![REMOVE clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/10.png)
+>![REMOVE STUDENTS clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/11.png)
+>![RECOVER and DELETE clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/12.png)
+>![Empty](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/13.png)
+>![Recovered data](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/14.png)
+>
+
+
+
