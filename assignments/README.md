@@ -13,7 +13,7 @@ The website I made was built to do CRUD commands to manipulate data on the datab
 >Input all the data needed in order to register a student
 >After that, to register just click the button `REGISTER`
 >
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/2.PNG)
+>![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/2.png)
 >![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/3.PNG)
 >![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/4.PNG)
 >![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/5.PNG)
