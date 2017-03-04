@@ -7,20 +7,20 @@ The website I made was built to do CRUD commands to manipulate data on the datab
 > ### Add Student
 >You can add student to table by clicking the button `ADD STUDENT`
 >
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/1.PNG)
+>![Home Page](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/1.png)
 >
 > ### Input Data
 >Input all the data needed in order to register a student
 >After that, to register just click the button `REGISTER`
 >
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/2.png)
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/3.PNG)
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/4.PNG)
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/5.PNG)
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/6.PNG)
+>![ADD STUDENT clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/2.png)
+>![Encode data](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/3.png)
+>![REGISTER clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/4.png)
+>![Add another data](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/5.png)
+>![REGISTER clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/6.png)
 >
 > ### Edit Data
 >To edit specific row, just click the `EDIT` button inline crossing with the option field 
 >
->![How to](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/7.PNG)
+>![EDIT clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/7.png)
 >
