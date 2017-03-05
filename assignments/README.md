@@ -36,7 +36,7 @@ The website I made was built to do CRUD commands to manipulate data on the datab
 > ## Soft Deletes
 >To remove specific row, just click the `REMOVE` button inline crossing with the option field 
 >
->If you clicked the `DELETED STUDENTD` button, you'll go to another page where the deleted data was stored
+>If you clicked the `DELETED STUDENTS` button, you'll go to another page where the deleted data was stored
 >
 >You can choose either `RECOVER`, to restore the data, or `DELETE`, it so it will be permanently remove from the databse
 >
