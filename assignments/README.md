@@ -16,6 +16,7 @@ The website I made was built to do CRUD commands to manipulate data on the datab
 >
 > ## Input Data 
 >Input all the data needed in order to register a student
+>
 >After that, to register just click the button `REGISTER`
 
 >![ADD STUDENT clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/2.png)
@@ -34,6 +35,10 @@ The website I made was built to do CRUD commands to manipulate data on the datab
 
 > ## Soft Deletes
 >To remove specific row, just click the `REMOVE` button inline crossing with the option field 
+>
+>If you clicked the `DELETED STUDENTD` button, you'll go to another page where the deleted data was stored
+>
+>You can choose either `RECOVER`, to restore the data, or `DELETE`, it so it will be permanently remove from the databse
 >
 >![REMOVE clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/10.png)
 >![REMOVE STUDENTS clicked](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/11.png)
