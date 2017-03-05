@@ -3,8 +3,8 @@ This simple website contains laravel CRUD commands, CSS and Javascript
 
 ![LARAVEL](http://www.yeebaplay.com.br/blog/wp-content/uploads/2016/10/laravel-covercover.jpg)
 
-# STUDENTS LIST 
-[![Logo](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/pyramid.gif)](https://github.com/ldrin01) The website I made was built to do CRUD commands to manipulate data on the database
+# STUDENTS LIST                                                                      [![Logo](https://github.com/ldrin01/Web-Application-2/blob/master/assignments/screenshots/pyramid.gif)](https://github.com/ldrin01)
+The website I made was built to do CRUD commands to manipulate data on the database
 >
 > ## Add Student
 >You can add student to table by clicking the button `ADD STUDENT`
