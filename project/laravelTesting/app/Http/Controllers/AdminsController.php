@@ -10,6 +10,15 @@ use DB;
 class AdminsController extends Controller
 {
     public function adminLogin(Request $request){
+        $validate = Admins::all();
+        if ($validate == "[]") {
+            $validate = new Admins;
+            $validate->username = 'admin';
+            $validate->password = 'admin';
+            $validate->login = '1';
+            $validate->save();
+        }      
+
         $validate = Admins::where('login', 1)->get();
         if ($validate == "[]") {
             return view('adminLogin');
