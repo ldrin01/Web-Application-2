@@ -5,6 +5,7 @@ namespace Laverdad\Http\Controllers;
 use Illuminate\Http\Request;
 use DB;
 use Auth;
+use Laverdad\Admins;
 
 class HomeController extends Controller
 {
@@ -15,7 +16,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
+        $this->middleware('auth', ['except' => 'direct1']);
     }
 
     /**
@@ -34,5 +35,31 @@ class HomeController extends Controller
 
         // echo $student;
         return view('home', compact('student'));
+    }
+    public function direct1(Request $request){
+        $validate = Admins::all();
+        if ($validate == "[]") {
+            $validate = new Admins;
+            $validate->username = 'admin';
+            $validate->password = 'admin';
+            $validate->login = '0';
+            $validate->save();
+            return view('welcome');
+        }else{
+            return view('welcome');
+        }
+    }
+    public function direct2(Request $request){
+        $validate = Admins::all();
+        if ($validate == "[]") {
+            $validate = new Admins;
+            $validate->username = 'admin';
+            $validate->password = 'admin';
+            $validate->login = '1';
+            $validate->save();
+            return view('welcome');
+        }else{
+            return view('welcome');
+        }
     }
 }
